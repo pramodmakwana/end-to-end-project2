@@ -14,4 +14,11 @@ git commit -m "This  is my first commit
 
 git pull
 
+# ways to open the local packages
+python setup.py install
+
+another way you can mention -e . in your requirement file and you can run
+pip install -r requirements.txt
+
+
  
