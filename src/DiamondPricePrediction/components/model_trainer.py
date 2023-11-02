@@ -3,11 +3,10 @@
 
 
 
-
-class DataIngestion:
+class ModelTrainer:
     def __init__(self):
         pass
     
-    def initiate_data_ingestion(self):
+    def initiate_model_training(self):
         pass
     
